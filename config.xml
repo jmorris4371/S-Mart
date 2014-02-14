@@ -19,6 +19,6 @@
         <author href="http://yoursite.com" email="jmorris4371@gmail.com">
         John Morris
         </author>
-
+<gap:plugin name="org.apache.cordova.device" />
+<gap:plugin name="nl.x-services.plugins.calendar" />
     </widget>
-  <gap:plugin name="org.apache.cordova.device" />
